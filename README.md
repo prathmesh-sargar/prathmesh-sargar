@@ -20,7 +20,7 @@ I’m not just writing code — I care about:
 
 🎯 **Actively seeking internship / junior full-stack opportunities** where I can contribute from day one.
 
-📫 **Contact:** prathmeshtech27@gmail.com  
+📫 **Contact:** sargarprathmesh007@gmail.com  
 🌐 **Portfolio:** https://www.prathameshsargar.xyz  
 
 ---
