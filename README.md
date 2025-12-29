@@ -1,69 +1,109 @@
-<h1 align="center">Hey there! 👋 I'm Prathmesh Sargar</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI/ML Explorer | Tech Community Enthusiast</h3>
+<h1 align="center">Prathmesh Sargar</h1>
+<h3 align="center">Full-Stack Engineer (MERN) • DevOps-Oriented • Production-Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Create.+Collaborate.;Building%20Projects%20with%20MERN%20Stack;Currently%20learning%20AI%2FML%20%7C%20TypeScript;Let%27s%20build%20something%20great%20together!&center=true&width=500&height=50" />
+I build, ship, deploy, and maintain real web applications.<br/>
+Focused on clean architecture, scalable APIs, and reliable deployments.
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Developer at Work" width="600" />
-</div>
+## 👋 About Me
+
+I’m a **Full-Stack Engineer** with hands-on experience in **building and deploying end-to-end web applications** using the MERN stack, with practical exposure to **Docker, AWS EC2, and CI/CD workflows**.
+
+I’m not just writing code — I care about:
+- stability
+- maintainability
+- deployment
+- and how things behave in production
+
+🎯 **Actively seeking internship / junior full-stack opportunities** where I can contribute from day one.
+
+📫 **Contact:** prathmeshtech27@gmail.com  
+🌐 **Portfolio:** https://www.prathameshsargar.xyz  
 
 ---
 
-### 🔥 About Me
+## 💼 Experience
 
-- 🌱 Currently diving deeper into **Backend, Python, AI/ML, and TypeScript**
-- 👨‍💻 All my projects live here: [**My Portfolio**](https://www.prathameshsargar.xyz)
-- 🤝 Looking to collaborate on **Full Stack / AI-Powered Web Projects**
-- 🧑‍🏫 I also love mentoring & sharing what I learn with communities!
-- 📬 Reach out to me at **prathmeshtech27@gmail.com**
+**React.js Developer Intern — GSP Innovations (Hybrid)**  
+*Nov 2025 – Present*
+- Built and maintained dashboard features using React with live backend API integration  
+- Worked closely with backend teams to debug API contracts and fix production issues  
+- Refactored components and optimized API usage, reducing repeat issues by ~30%
+
+**Software Trainee Intern — Collab Vision Infosolution (Remote)**  
+*Feb 2025 – May 2025*
+- Contributed to full-stack features using React + Node.js  
+- Implemented multilingual UI (4 languages) with backend integration  
+- Improved bug turnaround time by ~25% through better debugging and coordination
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,docker,postman,py,git,github,vscode&perline=8" />
-</p>
+## 🚀 Selected Projects
+
+**SkillSync** — MERN + Redux  
+- Full-stack job portal with user & admin roles  
+- REST APIs, role-based authentication, protected routes  
+- Clean, scalable frontend using Redux Toolkit
+
+**CodeMinder** — MERN + Flask  
+- Competitive coding dashboard with modular React UI  
+- Backend services for task tracking and activity logging  
+- Integrated third-party AI APIs with secure authentication
+
+👉 More projects live on my GitHub & portfolio.
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Tech Stack
+
+**Frontend**
+- React, Next.js, Tailwind CSS, Bootstrap
+- Component-driven UI, responsive layouts
+
+**Backend**
+- Node.js, Express.js
+- REST API design, authentication, authorization
+
+**Databases**
+- MongoDB, MySQL
+
+**DevOps / Tools**
+- Docker (containerization basics)
+- AWS EC2 deployment
+- GitHub Actions (CI/CD fundamentals)
+- Linux, Git, GitHub, Postman
+
+**Languages**
+- JavaScript, TypeScript, Python, Java
+
+---
+
+## 🏆 Highlights
+
+- **8× national-level winner** (hackathons, project expos, startup pitches)
+- Built and deployed multiple production-grade applications
+- Comfortable owning features from UI → API → deployment
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathmesh-sargar&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prathmesh-sargar&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-sargar&layout=compact&theme=tokyonight" width="50%" />
-</p>
-
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/prathmesh-sargar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/prathmesh-sargar" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" /></a>
-  <a href="mailto:prathmeshtech27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+## 🤝 Let’s Talk
 
----
+If you’re:
+- a recruiter looking for a **reliable junior/full-stack engineer**
+- a startup founder who needs someone who can **ship and deploy**
+- or a team that values **clean code + real execution**
 
-### 📚 Currently Learning
-
-- 🧠 **Machine Learning Basics with Python**
-- 📦 **Backend Scaling (JWT, API Security, Docker, etc.)**
-- 💡 **TypeScript + Redux Toolkit + Clean Architecture**
-
----
-
-### 💡 Fun Fact
-> I think I’m funny 😄 – but my code takes itself seriously.
-
----
-
-<div align="center">
-  <img src="https://media.tenor.com/UnFx-k_lSckAAAAM/amalie-steiness.gif" alt="Thank You" width="200"/>
-</div>
+📩 **Email me:** prathmeshtech27@gmail.com  
+🌐 **Portfolio:** https://www.prathameshsargar.xyz
