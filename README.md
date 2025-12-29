@@ -92,9 +92,12 @@ I’m not just writing code — I care about:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh-sargar&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathmesh-sargar&theme=tokyonight" width="48%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-sargar&layout=compact&theme=tokyonight" 
+    height="150"
+  />
 </p>
+
 
 ---
 
