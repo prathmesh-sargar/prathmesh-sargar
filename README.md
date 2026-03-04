@@ -32,6 +32,12 @@ Building scalable web applications from <b>UI → APIs → Deployment</b>
 
 </p>
 
+## 👋 About Me
+<p align="">
+I build, ship, deploy, and maintain real web applications.<br/>
+Focused on clean architecture, scalable APIs, and reliable deployments.
+</p>
+
 
 I focus on more than just writing code. I care about:
 
@@ -83,7 +89,8 @@ I focus on more than just writing code. I care about:
 
 # 🚀 Featured Project
 
-## CampusCompass — Developer Productivity Platform
+## CampusCompass — A full-stack platform solving fragmented developer tooling on campus
+(DSA tracking, resumes, learning resources, interview preparation).
 
 **CampusCompass** is a full-stack platform designed to help students manage **DSA preparation, resume building, learning resources, and interview preparation in one place**.
 
@@ -108,7 +115,7 @@ GitHub
 https://github.com/prathmesh-sargar/CampusCompass
 
 
----
+
 ## Tech Stack
 
 <p align="center">
@@ -116,7 +123,7 @@ https://github.com/prathmesh-sargar/CampusCompass
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,docker,aws,git,github,postman,linux,python,java,vscode&perline=9"/>
 
 </p>
----
+
 
 # 🏆 Highlights
 
@@ -127,9 +134,7 @@ https://github.com/prathmesh-sargar/CampusCompass
  Achievement Proof  
 https://www.prathmeshfolio.me/achievement
 
----
 
----
 
 # 🤝 Let’s Talk
 
@@ -138,6 +143,13 @@ If you’re:
 * a recruiter looking for a **reliable junior/full-stack engineer**
 * a startup founder who needs someone who can **ship and deploy**
 * or a team that values **clean code and execution**
+
+## 🚧 Currently Building
+
+• AI automation workflows using n8n + APIs  
+• Developer productivity tools  
+• Full-stack platforms with Dockerized deployments
+
 
 📩 **Email:** [sargarprathmesh007@gmail.com](mailto:sargarprathmesh007@gmail.com)
 <br/>
