@@ -40,9 +40,6 @@ Experienced with **containerizing applications using Docker**, setting up **CI/C
 I focus on building systems that are **scalable, maintainable, and production-ready**.
 
 
-I focus on building systems that are **scalable, maintainable, and production-ready**, taking projects from **idea → development → deployment**.
-
-
 🎯 **Actively seeking internship / junior software engineering opportunities**
 
 📫 **Contact:** [sargarprathmesh007@gmail.com](mailto:sargarprathmesh007@gmail.com)
@@ -86,8 +83,7 @@ I focus on building systems that are **scalable, maintainable, and production-re
 
 # 🚀 Featured Project
 
-## CampusCompass — A full-stack platform solving fragmented developer tooling on campus
-(DSA tracking, resumes, learning resources, interview preparation).
+## CampusCompass — Developer Productivity Platform
 
 **CampusCompass** is a full-stack platform designed to help students manage **DSA preparation, resume building, learning resources, and interview preparation in one place**.
 
@@ -128,7 +124,7 @@ https://github.com/prathmesh-sargar/CampusCompass
 * Built and deployed **multiple production-grade applications**
 * Comfortable owning features from **UI → API → deployment**
 
- Achievement Proof  
+🔗 **Achievement Proof:**  
 https://www.prathmeshfolio.me/achievement
 
 
