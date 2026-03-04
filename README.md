@@ -33,18 +33,15 @@ Building scalable web applications from <b>UI → APIs → Deployment</b>
 </p>
 
 ## 👋 About Me
-<p align="">
-I build, ship, deploy, and maintain real web applications.<br/>
-Focused on clean architecture, scalable APIs, and reliable deployments.
-</p>
+
+Full-stack engineer with hands-on experience building and deploying **production-grade web applications** using the **MERN stack**.
+Strong in **frontend architecture**, **REST API design**, **database modeling**, and **authentication workflows**.
+Experienced with **containerizing applications using Docker**, setting up **CI/CD pipelines with GitHub Actions**, and deploying services on **AWS EC2**.
+I focus on building systems that are **scalable, maintainable, and production-ready**.
 
 
-I focus on more than just writing code. I care about:
+I focus on building systems that are **scalable, maintainable, and production-ready**, taking projects from **idea → development → deployment**.
 
-* stability
-* maintainability
-* deployment
-* and how applications behave in **production environments**
 
 🎯 **Actively seeking internship / junior software engineering opportunities**
 
