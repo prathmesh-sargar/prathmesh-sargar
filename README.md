@@ -6,6 +6,11 @@ Building scalable web applications from <b>UI → APIs → Deployment</b>
 </p>
 
 <p align="center">
+I build, ship, deploy, and maintain real web applications.<br/>
+Focused on clean architecture, scalable APIs, and reliable deployments.
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=prathmesh-sargar&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
@@ -31,17 +36,6 @@ Building scalable web applications from <b>UI → APIs → Deployment</b>
 
 </p>
 
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,docker,aws,git,github,postman,linux,python,java,vscode&perline=9"/>
-
-</p>
-
-## 👋 About Me
-
-I’m a **Full-Stack Engineer** with hands-on experience in **building and deploying end-to-end web applications** using the MERN stack, along with practical exposure to **Docker, AWS EC2, and CI/CD workflows**.
 
 I focus on more than just writing code. I care about:
 
@@ -53,6 +47,7 @@ I focus on more than just writing code. I care about:
 🎯 **Actively seeking internship / junior software engineering opportunities**
 
 📫 **Contact:** [sargarprathmesh007@gmail.com](mailto:sargarprathmesh007@gmail.com)
+<br/>
 🌐 **Portfolio:** https://www.prathmeshfolio.me
 
 ---
@@ -118,47 +113,13 @@ https://github.com/prathmesh-sargar/CampusCompass
 
 
 ---
+## Tech Stack
 
-# 🧠 Tech Stack
+<p align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,docker,aws,git,github,postman,linux,python,java,vscode&perline=9"/>
 
-* React
-* Next.js
-* Tailwind CSS
-* Bootstrap
-* Zustand
-* React Query
-
-### Backend
-
-* Node.js
-* Express.js
-* REST API design
-* authentication & authorization
-
-### Databases
-
-* MongoDB
-* MySQL
-* PostgreSQL
-
-### DevOps / Tools
-
-* Docker
-* AWS EC2
-* GitHub Actions (CI/CD)
-* Linux
-* Git & GitHub
-* Postman
-
-### Languages
-
-* JavaScript
-* TypeScript
-* Python
-* Java
-
+</p>
 ---
 
 # 🏆 Highlights
@@ -167,8 +128,10 @@ https://github.com/prathmesh-sargar/CampusCompass
 * Built and deployed **multiple production-grade applications**
 * Comfortable owning features from **UI → API → deployment**
 
----
+ Achievement Proof  
+https://www.prathmeshfolio.me/achievement
 
+---
 
 ---
 
@@ -181,5 +144,6 @@ If you’re:
 * or a team that values **clean code and execution**
 
 📩 **Email:** [sargarprathmesh007@gmail.com](mailto:sargarprathmesh007@gmail.com)
+<br/>
 🌐 **Portfolio:** https://www.prathmeshfolio.me
 
