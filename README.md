@@ -33,7 +33,7 @@ Building scalable web applications from <b>UI → APIs → Deployment</b>
 </p>
 
 
-<p align="center">
+<p align="">
 I build, ship, deploy, and maintain real web applications.<br/>
 Focused on clean architecture, scalable APIs, and reliable deployments.
 </p>
