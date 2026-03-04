@@ -5,10 +5,6 @@
 Building scalable web applications from <b>UI → APIs → Deployment</b>
 </p>
 
-<p align="center">
-I build, ship, deploy, and maintain real web applications.<br/>
-Focused on clean architecture, scalable APIs, and reliable deployments.
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=prathmesh-sargar&label=Profile%20Views&color=blue&style=flat" />
@@ -37,6 +33,10 @@ Focused on clean architecture, scalable APIs, and reliable deployments.
 </p>
 
 
+<p align="center">
+I build, ship, deploy, and maintain real web applications.<br/>
+Focused on clean architecture, scalable APIs, and reliable deployments.
+</p>
 I focus on more than just writing code. I care about:
 
 * stability
