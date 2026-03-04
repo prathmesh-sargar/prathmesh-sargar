@@ -1,104 +1,193 @@
 <h1 align="center">Prathmesh Sargar</h1>
-<h3 align="center">Full-Stack Engineer (MERN) • DevOps-Oriented • Production-Focused</h3>
+<h3 align="center">Full-Stack Engineer • MERN • Production-Focused Developer</h3>
 
 <p align="center">
-I build, ship, deploy, and maintain real web applications.<br/>
-Focused on clean architecture, scalable APIs, and reliable deployments.
+Building real-world applications from UI → API → Deployment.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prathmesh-sargar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 👋 About Me
+## Connect With Me
 
-I’m a **Full-Stack Engineer** with hands-on experience in **building and deploying end-to-end web applications** using the MERN stack, with practical exposure to **Docker, AWS EC2, and CI/CD workflows**.
+<p align="center">
+<a href="mailto:sargarprathmesh007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-I’m not just writing code — I care about:
-- stability
-- maintainability
-- deployment
-- and how things behave in production
+<a href="https://www.linkedin.com/in/prathmesh-sargar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-🎯 **Actively seeking internship / junior full-stack opportunities** where I can contribute from day one.
+<a href="https://www.prathmeshfolio.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+</a>
 
-📫 **Contact:** sargarprathmesh007@gmail.com  
-🌐 **Portfolio:** https://www.prathmeshfolio.me  
-
----
-
-## 💼 Experience
-
-**React.js Developer Intern — GSP Innovations (Hybrid)**  
-*Nov 2025 – Present*
-- Built and maintained dashboard features using React with live backend API integration  
-- Worked closely with backend teams to debug API contracts and fix production issues  
-- Refactored components and optimized API usage, reducing repeat issues by ~30%
-
-**Software Trainee Intern — Collab Vision Infosolution (Remote)**  
-*Feb 2025 – May 2025*
-- Contributed to full-stack features using React + Node.js  
-- Implemented multilingual UI (4 languages) with backend integration  
-- Improved bug turnaround time by ~25% through better debugging and coordination
+<a href="https://github.com/prathmesh-sargar">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
-## 🚀 Selected Projects
+# About Me
 
-**SkillSync** — MERN + Redux  
-- Full-stack job portal with user & admin roles  
-- REST APIs, role-based authentication, protected routes  
-- Clean, scalable frontend using Redux Toolkit
+I’m a **Full-Stack Engineer** focused on building **production-ready web applications**.
 
-**CodeMinder** — MERN + Flask  
-- Competitive coding dashboard with modular React UI  
-- Backend services for task tracking and activity logging  
-- Integrated third-party AI APIs with secure authentication
+I work across the entire stack:
 
-👉 More projects live on my GitHub & portfolio.
+- designing scalable frontends
+- building backend APIs
+- deploying applications
+- automating workflows
 
----
+I care about **clean architecture, reliable deployments, and maintainable systems**.
 
-## 🧠 Tech Stack
-
-**Frontend**
-- React, Next.js, Tailwind CSS, Bootstrap
-- Component-driven UI, responsive layouts
-
-**Backend**
-- Node.js, Express.js
-- REST API design, authentication, authorization
-
-**Databases**
-- MongoDB, MySQL
-
-**DevOps / Tools**
-- Docker (containerization basics)
-- AWS EC2 deployment
-- GitHub Actions (CI/CD fundamentals)
-- Linux, Git, GitHub, Postman
-
-**Languages**
-- JavaScript, TypeScript, Python, Java
+Currently looking for **Internship / Junior Software Engineer opportunities** where I can contribute from day one.
 
 ---
 
-## 🏆 Highlights
+# Tech Stack
 
-- **8× national-level winner** (hackathons, project expos, startup pitches)
-- Built and deployed multiple production-grade applications
-- Comfortable owning features from UI → API → deployment
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Zustand
+- React Query
+
+### Backend
+- Node.js
+- Express.js
+- REST API design
+
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### DevOps & Tools
+- Docker
+- AWS EC2
+- GitHub Actions (CI/CD)
+- Linux
+- Git
+- Postman
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- Java
 
 ---
 
-### 🛠️ Languages & Tools <p align="center"> 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,docker,postman,py,git,github,vscode&perline=8" /> 
+# Featured Project
+
+## CampusCompass
+
+Full-stack platform helping students manage **DSA, resumes, learning, and interview preparation in one place**.
+
+### Key Features
+
+- GitHub + LeetCode integration
+- Resume analysis with role-based insights
+- Activity tracking dashboard
+- Modular MERN architecture
+
+### Tech
+
+MERN • Flask • Redux Toolkit • Docker • GitHub Actions
+
+### Links
+
+Live Demo  
+https://campuscompass.vercel.app
+
+GitHub Repository  
+https://github.com/prathmesh-sargar
 
 ---
-## 🤝 Let’s Talk
 
-If you’re:
-- a recruiter looking for a **reliable junior/full-stack engineer**
-- a startup founder who needs someone who can **ship and deploy**
-- or a team that values **clean code + real execution**
+# Engineering Experience
 
-📩 **Email me:** prathmeshtech27@gmail.com  
-🌐 **Portfolio:** https://www.prathmeshfolio.me
+### Software & Automation Developer  
+**Orin Systems — Remote**
+
+- Built production website using **React + Tailwind + Spring Boot APIs**
+- Implemented **SEO optimization and performance improvements**
+- Built **AI automation workflows** for lead generation and outreach
+
+---
+
+### React Developer Intern  
+**GSP Innovations**
+
+- Developed scalable **CRM frontend using React**
+- Implemented **state management with Zustand and React Query**
+- Reduced redundant API calls and improved data consistency
+
+---
+
+### Software Trainee Intern  
+**Collab Vision Infosolution**
+
+- Built backend services using **Node.js and Express**
+- Integrated AI features into APIs
+- **Dockerized applications and deployed to AWS EC2**
+
+---
+
+# Achievements
+
+- **8× National-level winner** across hackathons and project expos
+- Mentored **5000+ students** in technical communities
+
+Achievement Proof  
+https://www.prathmeshfolio.me/achievement
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathmesh-sargar&show_icons=true&theme=github_dark" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-sargar&layout=compact&theme=github_dark" height="170"/>
+
+</p>
+
+---
+
+# Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,docker,aws,git,github,postman,linux,python,java,vscode&perline=9"/>
+
+</p>
+
+---
+
+# Open To Opportunities
+
+If you're:
+
+- a recruiter looking for a **junior/full-stack engineer**
+- a startup needing someone who can **build and deploy products**
+- a team that values **clean engineering and execution**
+
+Reach out.
+
+Email  
+sargarprathmesh007@gmail.com
+
+Portfolio  
+https://www.prathmeshfolio.me
+
+---
